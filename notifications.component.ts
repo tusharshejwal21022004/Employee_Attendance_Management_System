@@ -1,1 +1,1 @@
-import { CommonModule } from '@angular/common';
+let notifications: any = [];
