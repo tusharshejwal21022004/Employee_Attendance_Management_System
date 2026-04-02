@@ -1,3 +1,3 @@
 export function findAll(): Promise<any[]> {
-  return Promise.resolve([]);
+  return Promise.resolve([{ id: 1 }]);
 }
